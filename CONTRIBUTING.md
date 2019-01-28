@@ -26,7 +26,7 @@ To test your change:
 
 You must sign a Contribution License Agreement (CLA) before your Pull Request will be merged. This is a one-time requirement for StrongKey open-source projects in GitHub. You can read more about [Contribution License Agreements (CLA)](https://en.wikipedia.org/wiki/Contributor_License_Agreement) on Wikipedia.
 
-You can sign the StrongKey Contribution License Agreement by visiting [insert URL]. Use your GitHub account to login.
+Individuals can sign the StrongKey Contribution License Agreement by visiting [insert URL]. Corporate Entities can use ths [CLA link](). Use your GitHub account to login.
 
 ## Issues
 
