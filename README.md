@@ -28,7 +28,7 @@ Congratulations! Installation is complete. To see it in action, sample code is p
 [Open API documentation for FIDO2/WebAuthn](URL)
 
 ## Contributing
-If you would like to contribute to the FIDO2 Community Edition project, please sign and return the [Contributor License Agreement (CLA)](URL).
+If you would like to contribute to the FIDO2 Community Edition project, please sign and return the Contributor License Agreement (CLA) [Individual]() or [Entity]().
 
 ## License
 This project is currently licensed under the [Foo](URL) license.
